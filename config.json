@@ -1,7 +1,7 @@
 {
   "version": "v1.0.0(beta)",
   "port": "5000",
-  "url_docs": "https://example.com",
+  "url_docs": "https://api-tkdev.onrender.com",
   "timezone": "Asia/Ho_Chi_Minh",
   "blockIP":
   {
